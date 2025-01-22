@@ -31,13 +31,13 @@ const Home = () => {
               title="KNIT RESOURCES"
               description="Access study materials, notes, and resources for KNIT students"
               onClick={() => console.log("First card clicked")}
-              link="https://knit.ac.in"
+              link="https://knit-archive.vercel.app/"
             />
             <Card
               title="GLA RESOURCES"
               description="Access study materials, notes, and resources for GLA students"
               onClick={() => console.log("Second card clicked")}
-              link="https://gla.ac.in"
+              link="https://gla-archive.vercel.app/"
             />
           </div>
         </div>
